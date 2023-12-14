@@ -1,12 +1,17 @@
-# Yasir Mohamed
+<h1 align="center">Yasir Mohamed</h1>
 
-* 🌱 I’m currently learning Full Stack Web Development Bootcamp.
-* 👯 I’m open for collaborating with projects, to learn from the exprerience.
-***
+<p align="center">
+A self-motivated tech enthusiast. I am currently learning Full Stack Web Developer Bootcamp.
+</p>
 
-## 📫 How to reach me: 
+<h4 align="center">
+Connect <a href="https://www.linkedin.com/in/yasir-wiifto/_">@LinkedIn</a>
+</h4>
 
-### ***LinkedIn***
 
-* [***LinkedIn***](https://www.linkedin.com/in/yasir-wiifto/)
-***
+<br/>
+<h3 align="center">
+My Tech Stacks
+<img src="assets/images/tech-stacks.png" alt="stacks"/>
+
+</h3>
