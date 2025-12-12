@@ -7,11 +7,3 @@ A self-motivated and tech enthusiast. I am currently learning Full Stack Web Dev
 <h4 align="center">
 Connect <a href="https://www.linkedin.com/in/yasir-wiifto/_">@LinkedIn</a>
 </h4>
-
-
-<br/>
-<h3 align="center">
-My Tech Stacks
-<img src="assets/images/tech-stacks.png" alt="stacks"/>
-
-</h3>
